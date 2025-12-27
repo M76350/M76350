@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am current working on sync solution pvt ltd<br>i am looking  to collaborate with   product based  oppurchunity <br>i am studying in mcs
+I am current working on sync solution pvt ltd<br>i am looking  to collaborate with   product based  oppurchunity <br>i am studying in mca
 
 
 # 💻 Tech Stack:
