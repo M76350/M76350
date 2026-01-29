@@ -1,5 +1,14 @@
-# 💫 About Me:
+Hi, I'm Manish 👋
+Web Developer • React Enthusiast • Problem Solver
 I am current working on sync solution pvt ltd<br>i am looking  to collaborate with   product based  oppurchunity <br>i am studying in mca
+I build clean, scalable, and modern web applications — usually with React, TypeScript, and Node.js… and yes, I do actually enjoy it (most days).
+
+
+What I’m Working On
+Rebuilding my entire dev workflow with a modern, production-level stack
+Strengthening fundamentals in JavaScript, TypeScript, React, Node
+Building hands-on projects + improving my developer presence
+Preparing for full-stack developer roles with a focus on clean code, architecture, and real-world skills
 
 
 # 💻 Tech Stack:
